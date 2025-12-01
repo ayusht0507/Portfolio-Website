@@ -388,7 +388,6 @@ a:hover::after {
 /* Grid container */
 .projects-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 30px;
 }
 
@@ -492,14 +491,14 @@ a:hover::after {
 }
 
 .contact-links {
-    text-decoration: none !important;
-    border-bottom: none !important;
-    margin-right: 0 !important;
-    padding-bottom: 0 !important;
+    text-decoration: none;
+    border-bottom: none;
+    margin-right: 0;
+    padding-bottom: 0;
 }
 
 .contact-links::after {
-    display: none !important;
+    display: none;
 }
 
 
@@ -586,4 +585,5 @@ footer {
     background-color: rgb(0,0,0);
     color: white;
 }
+
 
