@@ -1,7 +1,7 @@
 🌐 Ayush Tripathi — Personal Portfolio Website
 
 A modern and responsive personal portfolio website built using HTML & CSS.
-This website showcases my skills, education, projects, certificates, and contact information with a clean and dark-themed UI.
+This website showcases my skills, education, projects, certifications, and contact information with a clean, dark-themed UI.
 
 🔗 Live Website:
 👉 https://portfoliowebsite-livid-xi.vercel.app/
@@ -10,19 +10,17 @@ This website showcases my skills, education, projects, certificates, and contact
 
 Sleek dark theme with neon-blue highlights
 
-Glassmorphism UI elements
-
-Fully responsive layout
+Glassmorphism cards and UI components
 
 Smooth hover animations
 
 Fixed transparent navbar
 
-Organized sections: Home, About, Education, Skills, Certificates, Projects, Contact
+Fully responsive sections
 
 Downloadable certificates
 
-Project cards with Live Demo + GitHub Code buttons
+Project card with Live Demo and GitHub Code buttons
 
 🛠️ Tech Stack
 Technology	Use
@@ -42,24 +40,6 @@ Vercel	Deployment
       ├── introduction to data science.pdf
       ├── introduction to ai infosys.pdf
       └── MongoDB course Certificate.pdf
-
-🔧 How to Run Locally
-
-Clone the repository
-
-git clone https://github.com/your-username/portfolio-website.git
-
-
-Open the folder
-
-cd portfolio-website
-
-
-Run the website
-Open index.html directly in your browser.
-👉 No installations
-👉 No frameworks
-👉 Completely static website
 
 📬 Contact
 
